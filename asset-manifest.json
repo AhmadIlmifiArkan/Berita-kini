@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Berita-kini/static/css/main.834319e5.css",
-    "main.js": "/Berita-kini/static/js/main.fba9a8bf.js",
+    "main.js": "/Berita-kini/static/js/main.b51bae63.js",
     "static/js/453.e25ef3b3.chunk.js": "/Berita-kini/static/js/453.e25ef3b3.chunk.js",
     "static/media/ArticleContentImage.png": "/Berita-kini/static/media/ArticleContentImage.806fe0baf22ee140280a.png",
     "static/media/Headlines.png": "/Berita-kini/static/media/Headlines.29f03e33a62a48b57b2f.png",
@@ -23,11 +23,11 @@
     "static/media/slick.woff": "/Berita-kini/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Berita-kini/index.html",
     "main.834319e5.css.map": "/Berita-kini/static/css/main.834319e5.css.map",
-    "main.fba9a8bf.js.map": "/Berita-kini/static/js/main.fba9a8bf.js.map",
+    "main.b51bae63.js.map": "/Berita-kini/static/js/main.b51bae63.js.map",
     "453.e25ef3b3.chunk.js.map": "/Berita-kini/static/js/453.e25ef3b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.834319e5.css",
-    "static/js/main.fba9a8bf.js"
+    "static/js/main.b51bae63.js"
   ]
 }
