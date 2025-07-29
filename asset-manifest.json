@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Berita-kini/static/css/main.834319e5.css",
+    "main.js": "/Berita-kini/static/js/main.fba9a8bf.js",
+    "static/js/453.e25ef3b3.chunk.js": "/Berita-kini/static/js/453.e25ef3b3.chunk.js",
+    "static/media/ArticleContentImage.png": "/Berita-kini/static/media/ArticleContentImage.806fe0baf22ee140280a.png",
+    "static/media/Headlines.png": "/Berita-kini/static/media/Headlines.29f03e33a62a48b57b2f.png",
+    "static/media/BannerImage.png": "/Berita-kini/static/media/BannerImage.8d715353ea50286f7040.png",
+    "static/media/Recomendation 5.png": "/Berita-kini/static/media/Recomendation 5.1286d3eaea48aedda0eb.png",
+    "static/media/Recomendation 1.png": "/Berita-kini/static/media/Recomendation 1.293040b67b90ed3d25a6.png",
+    "static/media/Recomendation 4.png": "/Berita-kini/static/media/Recomendation 4.60ac22a15b23ef4c9e78.png",
+    "static/media/Recomendation 7.png": "/Berita-kini/static/media/Recomendation 7.de867ab68bc0735c5a29.png",
+    "static/media/Recomendation 8.png": "/Berita-kini/static/media/Recomendation 8.0f3457562562a6586bbe.png",
+    "static/media/Recomendation 6.png": "/Berita-kini/static/media/Recomendation 6.54a15ddedf501fe7af61.png",
+    "static/media/Recomendation 3.png": "/Berita-kini/static/media/Recomendation 3.6f3c0e38dbbd1219ffd1.png",
+    "static/media/Recomendation 2.png": "/Berita-kini/static/media/Recomendation 2.321521dcd725899b8ebf.png",
+    "static/media/TopNews 1.png": "/Berita-kini/static/media/TopNews 1.53d62b15dd83cb9183ce.png",
+    "static/media/TopNews 3.png": "/Berita-kini/static/media/TopNews 3.cd1fb181eedfa163fe29.png",
+    "static/media/TopNews 2.png": "/Berita-kini/static/media/TopNews 2.cdd84f88b9d0564453a1.png",
+    "static/media/slick.svg": "/Berita-kini/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Berita-kini/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Berita-kini/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Berita-kini/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Berita-kini/index.html",
+    "main.834319e5.css.map": "/Berita-kini/static/css/main.834319e5.css.map",
+    "main.fba9a8bf.js.map": "/Berita-kini/static/js/main.fba9a8bf.js.map",
+    "453.e25ef3b3.chunk.js.map": "/Berita-kini/static/js/453.e25ef3b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.834319e5.css",
+    "static/js/main.fba9a8bf.js"
+  ]
+}
